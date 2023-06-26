@@ -53,5 +53,10 @@ var filmData = [
         title : "Wonder Woman" ,
         image : "images/wonderwoman.jpg" ,
         text : `C'était avant qu'elle ne devienne Wonder Woman, à l'époque où elle était encore Diana, princesse des Amazones et combattante invincible. Un jour, un pilote américain s'écrase sur l'île paradisiaque où elle vit, à l'abri des fracas du monde. Lorsqu'il lui raconte qu'une guerre terrible fait rage à l'autre bout de la planète, Diana quitte son havre de paix, convaincue qu'elle doit enrayer la menace.`
+    },
+    {
+        title : "Fight Club" ,
+        image : "images/FightClub.webp" ,
+        text : `Pourvu d'une situation des plus enviable, un jeune homme à bout de nerfs retrouve un équilibre relatif en compagnie de Marla, rencontrée dans un groupe d'entraide. Il fait également la connaissance de Tyler Durden, personnage enthousiaste et charismatique.`
     }
 ]
